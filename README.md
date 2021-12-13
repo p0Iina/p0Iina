@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p0Iina
-- 👀 I’m interested in software testing, and now in coding, mostly in frontend development (HTML and CSS).
+- 👀 I’m interested in frontend development (HTML and CSS).
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on nothing at the moment - just learning and creating a pet-project.
 - 📫 How to reach me - closed at the moment :)
